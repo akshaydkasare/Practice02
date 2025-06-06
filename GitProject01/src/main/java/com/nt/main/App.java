@@ -10,4 +10,8 @@ public class App {
         System.out.println("============================");
         System.out.println("Welcome to GitHub");
     }
+    
+   public static void initmethod() {
+	   
+   }
 }
