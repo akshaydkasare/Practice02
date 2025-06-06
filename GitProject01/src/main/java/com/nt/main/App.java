@@ -6,7 +6,7 @@ package com.nt.main;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        double b=20;
+        double b=20;y
         System.out.println("============================");
         System.out.println("Welcome to GitHub");
     }
